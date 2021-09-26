@@ -1,1 +1,1 @@
-# Currency_rates_from_Privat_Bank
+# Currency rates from Privat Bank
