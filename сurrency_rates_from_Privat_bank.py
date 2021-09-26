@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import requests
 
 res = requests.get("https://api.privatbank.ua/p24api/pubinfo?json&exchange&coursid=5")
